@@ -256,6 +256,17 @@ a {
   margin-bottom: 8px;
 }
 
+.features-icon-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 8px;
+  height: 112px;
+  border: 1px solid #8e8f99;
+  border-radius: 4px;
+  background-color: #f4f4fd;
+}
+
 /* End Features Section */
 
 /* Start Team Section */ 
