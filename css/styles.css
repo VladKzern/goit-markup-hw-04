@@ -304,10 +304,7 @@ a {
 
 .team-info > .paragraph {
   text-align: center;
-}
-
-.t-social-links-container {
-  margin-top: 8px;
+  margin-bottom: 8px;
 }
 
 .team-social-links {
